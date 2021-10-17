@@ -11,7 +11,7 @@ click==8.0.1
 decorator==4.4.2
 flask==1.1.2
 importlib-metadata==3.10.0
-intel-openmp==2021.2.0
+intel-openmp==2021.4.0
 itsdangerous==2.0.1
 jinja2==3.0.1
 joblib==1.0.1
